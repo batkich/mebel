@@ -1,0 +1,7 @@
+.leadhead__title {
+    width: 50%;
+    font-family: "Helvetica", sans-serif;
+    font-size:max(4em, min(1.1em, calc(100vw * 4 / 75)));
+    text-transform: uppercase;
+    font-weight: 400;
+}

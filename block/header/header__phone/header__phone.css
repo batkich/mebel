@@ -1,0 +1,7 @@
+.header__phone {
+    width: 20%;
+    text-align: end;
+    font-size:max(1em, min(1.1em, calc(100vw * 4 / 75)));
+    font-family: "Roboto", sans-serif;
+    white-space: nowrap;
+}

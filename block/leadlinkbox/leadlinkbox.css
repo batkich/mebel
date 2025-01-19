@@ -1,0 +1,6 @@
+.leadlinkbox {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
