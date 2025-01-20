@@ -1,0 +1,5 @@
+.leadfoot {
+    display: flex;
+    flex-direction: row;
+    padding: 40px 0 0 0;
+}

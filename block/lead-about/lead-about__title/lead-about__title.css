@@ -1,0 +1,7 @@
+.lead-about__title {
+    width: 65%;
+    font-size:max(1.3em, min(1.1em, calc(100vw * 4 / 75)));
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    padding-bottom: 28%;
+}
