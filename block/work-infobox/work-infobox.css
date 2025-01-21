@@ -1,5 +1,5 @@
-.description-infobox {
+.work-infobox {
+    width: 50%;
     display: flex;
     flex-direction: column;
-    gap: 24px;
 }

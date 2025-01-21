@@ -30,3 +30,11 @@
 @import url(./block/description-info/description-info__text/description-info__text.css);
 @import url(./block/description-info/description-info__title/description-info__title.css);
 @import url(./block/description-elements/description-elements.css);
+@import url(./block/work/work.css);
+@import url(./block/work/work__text/work__text.css);
+@import url(./block/work/work__title/work__title.css);
+@import url(./block/work-titlebox/work-titlebox.css);
+@import url(./block/work-infobox/work-infobox.css);
+@import url(./block/work-infoblock/work-infoblock.css);
+@import url(./block/work-infoblock/work-infoblock__text/work-infoblock__text.css);
+@import url(./block/work-infoblock/work-infoblock__title/work-infoblock__title.css);
