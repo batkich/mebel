@@ -2,6 +2,13 @@
     width: 50%;
     font-family: "Helvetica", sans-serif;
     font-weight: 400;
-    font-size:max(2.1em, min(1em, calc(100vw * 4 / 75)));
+    font-size:max(0.8em, min(1.9em, calc(100vw * 4 / 75)));
     padding: 0 0.3em 0 0;
+}
+
+@media all and (max-width: 1000px) { 
+    .work-infoblock__title {
+        text-align: center;
+        padding-bottom: 5px;
+    }
 }

@@ -1,0 +1,5 @@
+.project__title {
+    font-family: "Helvetica", sans-serif;
+    font-size:max(0.7em, min(3em, calc(100vw * 4 / 75)));
+    font-weight: 400;
+}

@@ -3,3 +3,10 @@
     display: flex;
     flex-direction: row;
 }
+
+@media all and (max-width: 1000px) { 
+    .work {
+        flex-direction: column;
+        align-items: center;
+    }
+}
