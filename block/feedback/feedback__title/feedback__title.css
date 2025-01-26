@@ -1,0 +1,6 @@
+.feedback__title {
+    width: 100%;
+    font-size:max(0.8em, min(2.8em, calc(100vw * 4 / 75)));
+    font-weight: 400;
+    padding-bottom: 0.4em;
+}

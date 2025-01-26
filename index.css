@@ -43,3 +43,10 @@
 @import url(./block/project/project__title/project__title.css);
 @import url(./block/project-titlebox/project-titlebox.css);
 @import url(./block/project-elements/project-elements.css);
+@import url(./block/feedback/feedback.css);
+@import url(./block/feedback/feedback__title/feedback__title.css);
+@import url(./block/feedback-box/feedback-box.css);
+@import url(./block/feedback-element/feedback-element.css);
+@import url(./block/feedback-element/feedback-element__author/feedback-element__author.css);
+@import url(./block/feedback-element/feedback-element__header/feedback-element__header.css);
+@import url(./block/feedback-element/feedback-element__text/feedback-element__text.css);

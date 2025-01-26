@@ -1,0 +1,10 @@
+.feedback-element {
+    max-width: 445px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border: 1px solid black;
+}

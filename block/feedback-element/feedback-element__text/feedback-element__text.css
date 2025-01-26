@@ -1,0 +1,7 @@
+.feedback-element__text {
+    font-family: "Roboto";
+    font-size:max(0.5em, min(1em, calc(100vw * 4 / 75)));
+    width: 90%;
+    padding: 0 5% 0 5%;
+    text-align: center;
+}
