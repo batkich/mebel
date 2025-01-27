@@ -1,0 +1,8 @@
+.order-formbox__button {
+    max-width: 176px;
+    background-color: black;
+    color: white;
+    font-family: "Roboto";
+    font-size:max(0.5em, min(1em, calc(100vw * 4 / 75)));
+    padding: 2% 3%;
+}

@@ -50,3 +50,16 @@
 @import url(./block/feedback-element/feedback-element__author/feedback-element__author.css);
 @import url(./block/feedback-element/feedback-element__header/feedback-element__header.css);
 @import url(./block/feedback-element/feedback-element__text/feedback-element__text.css);
+@import url(./block/order/order.css);
+@import url(./block/order/order__image/order__image.css);
+@import url(./block/order-store/order-store.css);
+@import url(./block/order-store/order-store__image/order-store__image.css);
+@import url(./block/order-store/order-store__link/order-store__link.css);
+@import url(./block/order-imagebox/order-imagebox.css);
+@import url(./block/order-formbox/order-formbox.css);
+@import url(./block/order-formbox/order-formbox__button/order-formbox__button.css);
+@import url(./block/order-formbox/order-formbox__form/order-formbox__form.css);
+@import url(./block/order-formbox/order-formbox__input-error/order-formbox__input-error.css);
+@import url(./block/order-formbox/order-formbox__input/order-formbox__input.css);
+@import url(./block/order-formbox/order-formbox__text/order-formbox__text.css);
+@import url(./block/order-formbox/order-formbox__title/order-formbox__title.css);

@@ -1,0 +1,11 @@
+.order-formbox__input {
+    font-family: "Roboto";
+    font-size:max(0.5em, min(1em, calc(100vw * 4 / 75)));
+    line-height: max(0.5em, min(1.8em, calc(100vw * 4 / 75)));
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.order-formbox__input::placeholder {
+    color: black;
+}

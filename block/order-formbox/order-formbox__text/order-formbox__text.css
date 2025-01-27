@@ -1,0 +1,5 @@
+.order-formbox__text {
+    font-family: "Roboto";
+    font-size:max(0.5em, min(1em, calc(100vw * 4 / 75)));
+    padding: 4% 0 8% 0;
+}
