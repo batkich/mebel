@@ -1,0 +1,20 @@
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10% 0 2% 0;
+    align-items: end;
+    font-family: "Roboto", sans-serif;
+    font-size:max(0.5em, min(1.1em, calc(100vw * 4 / 75)));
+    font-weight: 400;
+}
+
+@media all and (max-width: 750px) {
+    .footer {
+        flex-direction: column-reverse;
+        align-items: center;
+        gap: 20px;
+    }
+}

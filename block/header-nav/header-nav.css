@@ -3,3 +3,11 @@
     display: flex;
     justify-content: end;
 }
+
+@media all and (max-width: 750px) {
+    .header-nav {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

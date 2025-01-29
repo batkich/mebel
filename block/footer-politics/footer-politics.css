@@ -1,0 +1,7 @@
+.footer-politics {
+    font-size:max(0.5em, min(1em, calc(100vw * 4 / 75)));
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    
+}

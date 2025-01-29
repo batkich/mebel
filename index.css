@@ -63,3 +63,11 @@
 @import url(./block/order-formbox/order-formbox__input/order-formbox__input.css);
 @import url(./block/order-formbox/order-formbox__text/order-formbox__text.css);
 @import url(./block/order-formbox/order-formbox__title/order-formbox__title.css);
+@import url(./block/footer/footer.css);
+@import url(./block/footer-copyright/footer-copyright.css);
+@import url(./block/footer-copyright/footer-copyright__text/footer-copyright__text.css);
+@import url(./block/footer-copyright/footer-copyright__year/footer-copyright__year.css);
+@import url(./block/footer-linkbox/footer-linkbox.css);
+@import url(./block/footer-linkbox/footer-linkbox__telegram/footer-linkbox__telegram.css);
+@import url(./block/footer-linkbox/footer-linkbox__vk/footer-linkbox__vk.css);
+@import url(./block/footer-politics/footer-politics.css);

@@ -1,0 +1,10 @@
+.footer-linkbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+    justify-content: end;
+}
